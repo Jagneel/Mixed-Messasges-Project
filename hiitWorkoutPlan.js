@@ -20,16 +20,6 @@ console.log(rollDice())
 
 //Now we define the number of rolls to fill the training schedule. We shortened the word exercise to ex.
 
-let ex1 = rollDice();
-let ex2 = rollDice();
-let ex3 = rollDice();
-let ex4 = rollDice();
-let ex5 = rollDice();
-let ex6 = rollDice();
-let ex7 = rollDice();
-let ex8 = rollDice();
-let ex9 = rollDice();
-let ex10 = rollDice();
 
 // Now we have to ensure that two numbers never get rolled one after another.
 
