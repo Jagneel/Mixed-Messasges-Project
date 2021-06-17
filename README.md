@@ -23,6 +23,6 @@ To run this program, download this repository and run the hiitWorkoutPlan.js fil
 
 # Skills demonstrated
 
+• Creating objects
 • Iteration over an array
 • Random number generators
-• Looping
